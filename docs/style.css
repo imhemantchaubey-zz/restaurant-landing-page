@@ -3,3 +3,27 @@
 *{
   font-family: 'Kanit', sans-serif;
 }
+
+.nav-flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: absolute;
+  z-index: 100;
+  left: 0;
+  width: 100%;
+  padding: 0;
+}
+
+.nav-flex-row li {
+  text-decoration: none;
+  list-style-type: none;
+  padding: 20px 15px;
+}
+
+.nav-flex-row li a {
+  color: #000000;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: 300;
+}
