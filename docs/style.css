@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Kanit:100,300,400,500,600,700,800,900&display=swap');
 
-*{
+* {
   font-family: 'Kanit', sans-serif;
 }
 
@@ -130,4 +130,3 @@ a.link-to-book:hover {
 .contact-adress p span {
   display: block;
 }
-
